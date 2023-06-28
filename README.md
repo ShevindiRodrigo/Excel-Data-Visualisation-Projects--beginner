@@ -25,4 +25,4 @@ I used the following items in creating a Bike sales dashboard that analyzes aver
 - Slicers
 
 # Dashboard
-![Ecommerce-Store-Data-Analysis-dashboard](https://user-images.githubusercontent.com/60383145/222998126-5185133f-6f7b-4bda-bb44-494a7585c734.jpg)
+![Bikes-Sales-Data-Analysis-dashboard](https://github.com/ShevindiRodrigo/Excel-Data-Visualisation-Projects--beginner/blob/main/bike%20sales%20dashbard.png)
